@@ -1,1 +1,5 @@
 Bu code puush edilmesiylee birlikte Jenkins Github-Webhook-EU11 job otomatik olarak calistirilacaktir
+
+
+
+Degisiklik yaptim ve Github-Webhook-EU11 yine calistirilacak......
