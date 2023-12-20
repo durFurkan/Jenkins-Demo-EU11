@@ -1,0 +1,1 @@
+Bu code puush edilmesiylee birlikte Jenkins Github-Webhook-EU11 job otomatik olarak calistirilacaktir
